@@ -1,0 +1,19 @@
+{
+    "name": "test_server",
+    "version": "1.0.0",
+    "description": "Contains Subtraction API",
+    "main": "app.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/avinashknagar/test_server"
+    },
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "author": "Avinash",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1"
+    }
+}
